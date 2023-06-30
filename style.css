@@ -1,6 +1,6 @@
 header {
     display: flex;
-    height: 130px;
+    height: 90px;
     background-color: #BA94D1;
 }
 
@@ -9,4 +9,6 @@ body {
     background-color: #DEBACE;
 }
 
-.TituloAR
+#LogoAppleH {
+    height:50px
+}
