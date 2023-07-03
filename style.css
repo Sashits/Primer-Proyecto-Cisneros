@@ -1,7 +1,8 @@
 header {
-    display: flex;
+    display: ;
     height: 90px;
     background-color: #BA94D1;
+    justify-content: space-between;
 }
 
 body {
@@ -9,6 +10,3 @@ body {
     background-color: #DEBACE;
 }
 
-#LogoAppleH {
-    height:50px
-}
